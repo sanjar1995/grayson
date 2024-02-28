@@ -117,6 +117,7 @@ body {
   line-height: 66px;
   position: relative;
   z-index: 1;
+  color: dodgerblue;
 }
 .header__title::before {
   content: "";
