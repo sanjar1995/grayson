@@ -117,13 +117,7 @@ body {
   line-height: 66px;
   position: relative;
   z-index: 1;
-<<<<<<< HEAD
-<<<<<<< HEAD
   color: dodgerblue;
-=======
->>>>>>> 13463b6 (first commit)
-=======
->>>>>>> 13463b6 (first commit)
 }
 .header__title::before {
   content: "";
